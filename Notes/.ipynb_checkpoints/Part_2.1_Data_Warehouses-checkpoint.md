@@ -1,5 +1,7 @@
 # Data Warehouses
 
+The following is a summary of the Chapter 2 Introduction to Data Warehouses of Udacity's Data Engineering Nanodegree. You'll go into Data Warehouses understading **the need of a Data Warehouse** from a Business and Technical Perspective as well as which are **the most common Data Warehouse Architectures**.
+
 ## What Is A Data Warehouse from Business Perspective?
 
 Imagine you are in charge of a retailer’s data infrastructure. Let’s look at some business activities.
